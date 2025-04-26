@@ -22,6 +22,10 @@ strong{
     color: #47b2e4 ;
     font-size: 1.1rem;
 }
+.home1{
+    color: #47b2e4 ;
+    font-size: 1.1rem;
+}
 header nav {
     display: flex;
     flex-wrap: wrap;
@@ -300,6 +304,10 @@ option {
 
 .copyright p{
     text-align: center;
+}
+
+.hidden{
+    display: none;
 }
 
 @media (max-width: 800px) {
